@@ -50,3 +50,17 @@ body{
 .fa-envelope-o{
     color:#44b159;
 }
+.card-header{ 
+    background-image: linear-gradient(to right,rgb(183,182,204), rgb(201,186,222));
+}
+.navbar-brand > img{
+    height: 30px;
+    width: 49px;
+    opacity: 1;
+}
+img{
+    border-radius: 50%;
+}
+.img-thumbnail{
+    border-radius: 50%;
+}
