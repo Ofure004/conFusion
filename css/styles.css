@@ -52,6 +52,7 @@ body{
 }
 .card-header{ 
     background-image: linear-gradient(to right,rgb(183,182,204), rgb(201,186,222));
+    font-size: 29px;
 }
 .navbar-brand > img{
     height: 30px;
@@ -63,4 +64,12 @@ img{
 }
 .img-thumbnail{
     border-radius: 50%;
+}
+.btn-warning{
+    font-size: 20px;
+    width: 10em;
+}
+.reservebutton{
+    font-size: 20px;
+    width: 10em;
 }
